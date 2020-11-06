@@ -489,6 +489,6 @@ img {
   }
   .home__img {
     right: 10%;
-    height: 50%;
+    /* height: 50%; */
   }
 }
